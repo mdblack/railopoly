@@ -755,7 +755,7 @@ public class Railopoly extends Activity
     	AlertDialog.Builder adb=new AlertDialog.Builder(railopoly);
     	adb.setIcon(R.drawable.rricon2);
     	adb.setTitle("About Railopoly");
-    	adb.setMessage("This game was written by Michael Black in 2003, and was adapted for the Android in June, 2011.\n\nIt is inspired by the Avalon Hill board game 'Rail Baron'.");
+    	adb.setMessage("This game was written by Margaret Black in 2003, and was adapted for the Android in June, 2011.\n\nIt is inspired by the Avalon Hill board game 'Rail Baron'.");
     	adb.setNeutralButton("Okay", new OnClickListener(){
 			public void onClick(DialogInterface dialog, int which) {
 			}});
